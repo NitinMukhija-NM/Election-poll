@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="can1">Lucifer Morningstar</string>
+    <string name="can2">Amenadiel Woodside</string>
+    <string name="can3">Michael Jordan</string>
+    <string name="button4">Start</string>
+    <string name="textView6">Please Vote</string>
+    <string name="textView9">Name</string>
+    <string name="textView11">Id:</string>
+    <string name="button3">Vote</string>
+    <string name="editText1"></string>
+    <string name="editText2"></string>
+    <string name="spinner"></string>
+    <string-array name="Candidate">
+        <item>Choose Candidate</item>
+        <item>Lucifer Morningstar</item>
+        <item>Amenadiel Woodside</item>
+        <item>Michael Jordan</item>
+
+    </string-array>
+
+</resources>
